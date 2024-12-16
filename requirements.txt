@@ -1,0 +1,8 @@
+Flask==2.3.2
+Jinja2==3.1.2
+Pillow==9.5.0
+Werkzeug==2.3.6
+jinja2
+python-dotenv==1.0.0
+python-telegram-bot==13.13
+urllib3==1.26.15
