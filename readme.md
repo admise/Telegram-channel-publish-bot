@@ -1,4 +1,4 @@
-[🇷🇺 Русский](README.ru.md) | [🇬🇧 English](README.en.md)
+[🇷🇺 Русский](readme.ru.md) | [🇬🇧 English](readme.en.md)
 
 # Telegram Bot: Управление контентом и модерация | Content Management and Moderation
 
